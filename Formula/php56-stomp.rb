@@ -1,6 +1,6 @@
 require File.expand_path("../../Abstract/abstract-php-extension", __FILE__)
 
-class Php55Stomp < AbstractPhp55Extension
+class Php56Stomp < AbstractPhp55Extension
   init
   homepage "http://pecl.php.net/package/stomp"
   url "http://pecl.php.net/get/stomp-1.0.8.tgz"
