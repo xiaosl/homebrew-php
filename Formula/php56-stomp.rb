@@ -4,7 +4,7 @@ class Php56Stomp < AbstractPhp56Extension
   init
   homepage "http://pecl.php.net/package/stomp"
   url "http://pecl.php.net/get/stomp-1.0.8.tgz"
-  sha256 "9cf4180a816bac08300c45083410ca536200bd4940db0174026b9a825161f159"
+  sha256 "4e75c7baeff1de84b806a3fc17f486f773a8fd94797390c0678a11f71abf16c1"
   head "https://github.com/JosephMoniz/php-stomp.git"
 
 
